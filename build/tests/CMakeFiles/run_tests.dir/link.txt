@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/run_tests.dir/link.d CMakeFiles/run_tests.dir/test_calculator.cpp.o -o run_tests  ../lib/libgtest_main.a ../libcalculator.a ../lib/libgtest.a
